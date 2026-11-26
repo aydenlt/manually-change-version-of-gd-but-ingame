@@ -1,0 +1,12 @@
+
+{
+    "geode": "6.0.0",
+    "gd": {
+        "android": "2.2091"
+    },
+    "id": "aydenlt.manually-switch-version",
+    "name": "Manually Switch Version",
+    "version": "v1.0.0-beta",
+    "developer": "aydenlt",
+    "description": "Manually manage Geometry Dash APK versions."
+}
